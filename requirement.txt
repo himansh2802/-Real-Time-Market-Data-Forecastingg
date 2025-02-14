@@ -1,0 +1,14 @@
+gunicorn
+streamlit
+pandas
+plotly
+yfinance
+prophet
+matplotlib
+google-generativeai
+Pillow
+requests
+numpy
+ta
+pytz
+streamlit_autorefresh
